@@ -8,3 +8,5 @@ target/
 target/**
 bower_components
 
+.classpath
+.wtpmodules
