@@ -1,0 +1,10 @@
+node_modules
+.tmp
+.project
+bin/
+bin/**
+.eclipse
+target/
+target/**
+bower_components
+
